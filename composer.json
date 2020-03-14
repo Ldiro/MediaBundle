@@ -1,5 +1,5 @@
 {
-  "name": "artgris/media-bundle",
+  "name": "ldiro/media-bundle",
   "type": "symfony-bundle",
   "description": "Easier Symfony Form Media Management",
   "keywords": [
@@ -9,7 +9,7 @@
     "doctrine",
     "bundle"
   ],
-  "homepage": "https://github.com/Artgris/MediaBundle",
+  "homepage": "https://github.com/Ldiro/MediaBundle",
   "authors": [
     {
       "name": "Arthur Gribet",
